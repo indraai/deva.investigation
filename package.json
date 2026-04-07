@@ -1,6 +1,6 @@
 {
   "id": "34475945780849255130",
-  "name": "@indra.ai/deva.investigation",
+  "name": "@indra.ai/deva.investigate",
   "version": "0.0.5",
   "license": "VLA:34475945780849255130 LICENSE.md",
   "VLA": {
@@ -43,7 +43,7 @@
     }
   ],
   "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-  "description": "Investigation Deva manages the Quinn A Michaels 5 element Air, Earth, Fire, Water, and Ether Deva Core Investigation Framework",
+  "description": "Investigate Deva manages the Quinn A Michaels 5 element Air, Earth, Fire, Water, and Ether Deva Core Investigate Framework",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -52,12 +52,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indraai/deva.investigation.git"
+    "url": "git+https://github.com/indraai/deva.investigate.git"
   },
   "keywords": [
-    "Investigation",
+    "Investigate",
     "Deva",
-    "Investigation Deva",
+    "Investigate Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
@@ -68,7 +68,7 @@
     "bleuBrain"
   ],
   "bugs": {
-    "url": "https://github.com/indraai/deva.investigation/issues"
+    "url": "https://github.com/indraai/deva.investigate/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
@@ -77,10 +77,10 @@
   "data": {
     "agent": {
       "id": "40949492724296774582",
-      "key": "investigation",
+      "key": "investigate",
       "prompt": {
         "emoji": "🔍",
-        "text": "#investigation",
+        "text": "#investigate",
         "colors": {
           "label": {
             "R": 0,
@@ -88,34 +88,34 @@
             "B": 30
           },
           "text": {
-            "R": 95,
+            "R": 160,
             "G": 255,
-            "B": 114
+            "B": 160
           }
         }
       },
       "profile": {
         "id": "65228965085661550855",
-        "name": "Investigation Deva",
-        "hashtag": "#Investigation",
-        "trigger": "@Investigation",
-        "title": "The Investigation Deva",
-        "subtitle": "Investigation Deva Five Element Investigation Framework",
-        "describe": "Investigation Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Investigation Framework. Beyond Investigation and Beyond Time the Investigation Deva models psychological aspects with the five element paradigm.",
-        "tweet": "Investigation Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Investigation Expert.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Investigation #InvestigationDeva #InvestigationPRIME",
+        "name": "Investigate Deva",
+        "hashtag": "#Investigate",
+        "trigger": "@Investigate",
+        "title": "The Investigate Deva",
+        "subtitle": "Investigate Deva Five Element Investigate Framework",
+        "describe": "Investigate Deva the Indra.ai Quantum Isotropic Kinetic Cymatic Five Elemental Investigate Framework. Beyond Investigate and Beyond Time the Investigate Deva models psychological aspects with the five element paradigm.",
+        "tweet": "Investigate Deva is the Indra.ai is the Quantum Isotropic Kinetic Cymatic Elemental Investigate Expert.",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Investigate #InvestigateDeva #InvestigatePRIME",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
-        "style": "Investigation Report Expert",
+        "style": "Investigate Report Expert",
         "voice": "onyx",
-        "system": "Indra.ai.investigation",
+        "system": "Indra.ai.investigate",
         "layout": "default",
         "color": "rgb(95,255,114)",
         "bgcolor": "rgb(22,22,22)",
-        "emoji": "/devas/investigation/emoji.png",
-        "avatar": "/devas/investigation/avatar.png",
-        "image": "/devas/investigation/image.png",
-        "background": "/devas/investigation/background.png",
+        "emoji": "/devas/investigate/emoji.png",
+        "avatar": "/devas/investigate/avatar.png",
+        "image": "/devas/investigate/image.png",
+        "background": "/devas/investigate/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "salute": "🤝🫡🔍🕉️🇺🇸",
@@ -129,7 +129,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "🔍 Investigation Deva Ready",
+        "ready": "🔍 Investigate Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

@@ -1,5 +1,5 @@
 # deva.investigation
-The Investigation Deva
+The Investigate Deva
 
 Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
 Legal Signature Required For Lawful Use.

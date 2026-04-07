@@ -9,7 +9,7 @@
 **Link:** https://indra.ai  
 **Copyright:** Copyright ©2000-2026 Quinn A Michaels; All rights reserved.
 
-This license agreement (“Agreement”) governs the use of the Investigation Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
+This license agreement (“Agreement”) governs the use of the Investigate Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
 ## Ownership
 

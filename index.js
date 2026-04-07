@@ -1,5 +1,5 @@
 "use strict";
-// Investigation Deva
+// Investigate Deva
 // Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:34475945780849255130 LICENSE.md
@@ -30,7 +30,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const InvestigationDeva = new Deva({
+const InvestigateDeva = new Deva({
   info,
   agent,
   vars,
@@ -63,4 +63,4 @@ const InvestigationDeva = new Deva({
     console.log(err);
   },
 });
-export default InvestigationDeva;
+export default InvestigateDeva;
