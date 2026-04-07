@@ -76,26 +76,26 @@
   },
   "data": {
     "agent": {
-      "id": "43322221003554126757",
+      "id": "40949492724296774582",
       "key": "investigation",
       "prompt": {
         "emoji": "🔍",
         "text": "#investigation",
         "colors": {
           "label": {
-            "R": 200,
-            "G": 172,
-            "B": 87
+            "R": 0,
+            "G": 255,
+            "B": 30
           },
           "text": {
-            "R": 230,
-            "G": 225,
-            "B": 195
+            "R": 95,
+            "G": 255,
+            "B": 114
           }
         }
       },
       "profile": {
-        "id": "43792803184657082174",
+        "id": "65228965085661550855",
         "name": "Investigation Deva",
         "hashtag": "#Investigation",
         "trigger": "@Investigation",
@@ -108,10 +108,10 @@
         "gender": "DEVA",
         "style": "Investigation Report Expert",
         "voice": "onyx",
-        "system": "Indra.ai.recursion",
+        "system": "Indra.ai.investigation",
         "layout": "default",
-        "color": "rgb(186,182,158)",
-        "bgcolor": "rgb(29,28,20)",
+        "color": "rgb(95,255,114)",
+        "bgcolor": "rgb(22,22,22)",
         "emoji": "/devas/investigation/emoji.png",
         "avatar": "/devas/investigation/avatar.png",
         "image": "/devas/investigation/image.png",
@@ -121,7 +121,7 @@
         "salute": "🤝🫡🔍🕉️🇺🇸",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Sunday, April 5, 2026 - 10:14:22 PM PST",
-        "updated": "Monday, April 6, 2026 - 1:27:12 PM PST"
+        "updated": "Monday, April 6, 2026 - 6:14:06 PM PST"
       }
     },
     "vars": {
